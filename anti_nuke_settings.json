@@ -1,0 +1,45 @@
+{
+    "role": {
+        "enabled": true,
+        "action": "ban",
+        "limit": 1
+    },
+    "kick": {
+        "enabled": true,
+        "action": "ban",
+        "limit": 1
+    },
+    "ban": {
+        "enabled": true,
+        "action": "ban",
+        "limit": 1
+    },
+    "addbot": {
+        "enabled": true,
+        "action": "ban",
+        "limit": 1
+    },
+    "channel": {
+        "enabled": true,
+        "action": "ban",
+        "limit": 1
+    },
+    "webhook_create": {
+        "enabled": true,
+        "action": "ban",
+        "limit": 1
+    },
+    "webhook_delete": {
+        "enabled": true,
+        "action": "ban",
+        "limit": 1
+    },
+    "whitelist": {
+        "users": []
+    },
+    "mention": {
+        "enabled": true,
+        "limit": 3,
+        "action": "ban"
+    }
+}
